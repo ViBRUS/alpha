@@ -1,3 +1,10 @@
+
+.space{
+  height: 80px;
+  width: inherit;
+}
+
+
 /*
   CSS for Team leaders' cards
 */
@@ -140,9 +147,4 @@ transform: translateY(250px);
 .timeline .right-bottom {
   left: 50%;
   top: calc(50% - 3px);
-}
-
-.space{
-  height: 80px;
-  width: inherit;
 }
