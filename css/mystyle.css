@@ -75,11 +75,21 @@
   padding: 15px 20px;
   border-radius: 50%;
   background-color: #05d9e8;
-  color: #e1e5e6;
+  color: #ffffff;
   max-height: 50px;
   z-index: 2;
-}
 
+}
+.last-circle{
+  font-weight: bold;
+  padding: 15px 20px;
+  border-radius: 50%;
+  background-color: #05d9e8;
+  color: #ffffff;
+  max-height: 50px;
+  z-index: 2;
+  align-self: flex-end;
+}
 .how-it-works.row {
   display: flex;
 }
